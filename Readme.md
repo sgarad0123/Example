@@ -1,3 +1,7 @@
-Hellow world!!!
+# hello-world
+Hello World repository for Git tutorial
+This is an example repository for the Git tutoial on https://www.w3schools.com
 
-complet the git by today!!
+This repository is built step by step in the tutorial.
+
+dkf dffdjdsf f
